@@ -2,11 +2,11 @@
 package org.primefaces.icarus.model;
 
 
-public class Cliente {
+public class Clientes {
     
     	private int ID_CLIENTE,EDAD;
-	private String NOMBRE_1,NOMBRE_2,APELLIDO_1,APELLIDO_2,IDENTIFICACION,DIRECCION;
-        private char GENERO;
+	private String GENERO,NOMBRE_1,NOMBRE_2,APELLIDO_1,APELLIDO_2,IDENTIFICACION,DIRECCION;
+        
 
     public int getID_CLIENTE() {
         return ID_CLIENTE;
@@ -72,11 +72,11 @@ public class Cliente {
         this.DIRECCION = DIRECCION;
     }
 
-    public char getGENERO() {
+    public String getGENERO() {
         return GENERO;
     }
 
-    public void setGENERO(char GENERO) {
+    public void setGENERO(String GENERO) {
         this.GENERO = GENERO;
     }
         

@@ -3,8 +3,7 @@ package org.primefaces.icarus.model;
 public class Empleados {
 
     private int ID_EMPLEADO, EDAD;
-    private String NOMBRE_1, NOMBRE_2, APELLIDO_1, APELLIDO_2, IDENTIFICACION, DIRECCION, CORREO_ELECTRONICO, CONTRASENA;
-    private char GENERO;
+    private String GENERO,NOMBRE_1, NOMBRE_2, APELLIDO_1, APELLIDO_2, IDENTIFICACION, DIRECCION, CORREO_ELECTRONICO, CONTRASENA;
 
     public int getID_EMPLEADO() {
         return ID_EMPLEADO;
@@ -86,11 +85,11 @@ public class Empleados {
         this.CONTRASENA = CONTRASENA;
     }
 
-    public char getGENERO() {
+    public String getGENERO() {
         return GENERO;
     }
 
-    public void setGENERO(char GENERO) {
+    public void setGENERO(String GENERO) {
         this.GENERO = GENERO;
     }
 
