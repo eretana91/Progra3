@@ -1759,7 +1759,7 @@ body .ui-inputgroup {
     .ui-button.ui-state-default.ui-widget {
       color: #fff; }
   .ui-button.ui-state-hover {
-    background: #f6bb4e;
+    background: #031874;
     border-bottom: 5px solid #ea9624; }
   .ui-button.ui-state-active {
     background: #e88524;
@@ -1909,7 +1909,7 @@ body .ui-inputgroup {
 
 /* Password */
 .ui-password-panel {
-  background: #f6bb4e;
+  background: #031874;
   border-color: #ea9624;
   color: #4a4a4a; }
 
@@ -1971,7 +1971,7 @@ body .ui-inputgroup {
       .ui-chkbox .ui-chkbox-box.ui-state-active .ui-icon-closethick:before {
         content: ""; }
   .ui-chkbox .ui-chkbox-box.ui-state-focus {
-    background-color: #f6bb4e; }
+    background-color: #031874; }
     .ui-chkbox .ui-chkbox-box.ui-state-focus .ui-icon-check {
       background: none;
       display: inline-block;
@@ -2127,7 +2127,7 @@ body .ui-inputgroup {
       border-left: 5px solid #e88524; }
       .ui-selectmanymenu.ui-inputfield .ui-selectlistbox-list .ui-selectlistbox-item.ui-state-highlight .ui-chkbox .ui-chkbox-box,
       .ui-selectonelistbox.ui-inputfield .ui-selectlistbox-list .ui-selectlistbox-item.ui-state-highlight .ui-chkbox .ui-chkbox-box {
-        border-color: #f6bb4e; }
+        border-color: #031874; }
     .ui-selectmanymenu.ui-inputfield .ui-selectlistbox-list .ui-selectlistbox-item .ui-chkbox,
     .ui-selectonelistbox.ui-inputfield .ui-selectlistbox-list .ui-selectlistbox-item .ui-chkbox {
       vertical-align: middle;
@@ -2645,7 +2645,7 @@ body .ui-toggleswitch {
         box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
         outline: 0 none; }
       .p-datepicker-panel .ui-datepicker-buttonbar .ui-button:hover {
-        background: #f6bb4e;
+        background: #031874;
         border-bottom: 5px solid #ea9624; }
 
 /* ====== DATA ======*/
@@ -2717,11 +2717,11 @@ body .ui-toggleswitch {
     background: #ea9624;
     color: #fff; }
     .ui-datatable tbody.ui-datatable-data tr.ui-widget-content.ui-datatable-selectable.ui-state-highlight .ui-radiobutton-box {
-      border-color: #f6bb4e; }
+      border-color: #031874; }
       .ui-datatable tbody.ui-datatable-data tr.ui-widget-content.ui-datatable-selectable.ui-state-highlight .ui-radiobutton-box .ui-radiobutton-icon {
         margin-left: -0.2px; }
     .ui-datatable tbody.ui-datatable-data tr.ui-widget-content.ui-datatable-selectable.ui-state-highlight .ui-chkbox-box {
-      border-color: #f6bb4e; }
+      border-color: #031874; }
   .ui-datatable tbody.ui-datatable-data tr.ui-widget-content.ui-datatable-odd {
     background-color: #f0f0f0; }
   .ui-datatable tbody.ui-datatable-data tr.ui-widget-content.ui-row-editing td {
@@ -2931,7 +2931,7 @@ body .ui-toggleswitch {
     border-color: #e88524;
     color: #fff; }
     .ui-picklist .ui-picklist-list .ui-picklist-item.ui-state-highlight .ui-chkbox .ui-chkbox-box {
-      border-color: #f6bb4e; }
+      border-color: #031874; }
 .ui-picklist .ui-picklist-buttons .ui-icon {
   font-size: 16px; }
 .ui-picklist .ui-picklist-buttons .ui-icon-arrow-1-n {
@@ -3923,7 +3923,7 @@ body .ui-toggleswitch {
     height: 10px;
     padding: 0 1em; }
   .ui-steps.ui-widget .ui-steps-item .ui-steps-number {
-    background-color: #f6bb4e;
+    background-color: #031874;
     color: #fff;
     display: inline-block;
     width: 30px;
@@ -4011,7 +4011,7 @@ body .ui-toggleswitch {
 
 /* ProgressBar */
 .ui-progressbar .ui-progressbar-value {
-  background-color: #f6bb4e; }
+  background-color: #031874; }
 
 /* Messages */
 .ui-messages.ui-widget ul {
@@ -4071,8 +4071,8 @@ body .ui-toggleswitch {
 /* Warn */
 .ui-messages .ui-messages-warn, .ui-message.ui-message-warn {
   color: #fff;
-  background: #f6bb4e;
-  border-color: #f6bb4e; }
+  background: #031874;
+  border-color: #031874; }
 
 .ui-messages .ui-messages-warn-icon, .ui-message .ui-message-warn-icon {
   background: none;
@@ -4171,8 +4171,8 @@ body .ui-toggleswitch {
       content: ""; }
 .ui-growl .ui-state-highlight.ui-growl-warn {
   color: #fff;
-  background: #f6bb4e;
-  border-color: #f6bb4e; }
+  background: #031874;
+  border-color: #031874; }
   .ui-growl .ui-state-highlight.ui-growl-warn .ui-growl-image-warn {
     background: none;
     display: inline-block;
@@ -4225,13 +4225,13 @@ body .ui-toggleswitch {
 .fc.fc-ltr .ui-widget-content {
   background-color: #ffffff; }
   .fc.fc-ltr .ui-widget-content .ui-state-highlight {
-    background: #f6bb4e;
+    background: #031874;
     border-color: #ea9624; }
 .fc.fc-ltr .fc-event {
   background: #22b167;
   border-color: #22b167; }
 .fc.fc-ltr .fc-view-container .fc-view .ui-widget-header {
-  background: #f6bb4e;
+  background: #031874;
   border-color: #d8d8d8; }
 .fc.fc-ltr .fc-toolbar {
   background: #4a4a4a;

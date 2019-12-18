@@ -12,33 +12,33 @@
             <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
             <meta name="apple-mobile-web-app-capable" content="yes" />
         </f:facet>
-        <title>Login Merecumbe</title>
+        <title>Iniciar sesión</title>
     </h:head>
 
     <h:body styleClass="containerLogin">
         <div class="logo-container">
-            <h:graphicImage name="images/logo.svg" id="PageLogo" library="icarus-layout"/>
+            <h:graphicImage name="images/logo.png" id="PageLogo" library="icarus-layout"/>
         </div>
         <div class="ui-g">
-            <p:panel header="Login" styleClass="panel-login">
+            <p:panel header="Iniciar sesión" styleClass="panel-login">
                 <div class="ui-g-12" style="padding-top:35px;">
-                    <p:inputText placeholder="Your Email" style="width:60%;"/><br/>
+                    <p:inputText placeholder="Correo electrónico" style="width:60%;"/><br/>
                 </div>
                 <div class="ui-g-12" style="padding-top:10px;">
-                    <p:inputText placeholder="Your Password" style="width:60%"/>
+                    <p:inputText placeholder="Contraseña" style="width:60%"/>
                 </div>
                 <div class="ui-g-2"></div>
                 <div class="ui-g-8 login-input-container">
                     <div class="ui-g-12 ui-md-6 ui-lg-6">
                         <p:selectBooleanCheckbox value="#{selectBooleanView.value1}" style="padding-left:10px;"/>
-                        <h:outputText value="Remember me" style="padding-left:5px;"/>
+                        <h:outputText value="Recordarme" style="padding-left:5px;"/>
                     </div>
                     <div class="ui-g-12 ui-md-6 ui-lg-6">
-                        <p:commandLink styleClass="link-decoration" value="Forget Password?" />
+                        <p:commandLink styleClass="link-decoration" value="Recuperar contraseña?" />
                     </div>
                 </div>
                 <div class="ui-g-2"></div>
-                <p:button id="loginButton" value="Login" outcome="dashboard"></p:button>
+                <p:button id="loginButton" value="Iniciar sesión" outcome="dashboard"></p:button>
             </p:panel>
             <div class="ui-g-12 footer-login">
                 <span></span><br/>

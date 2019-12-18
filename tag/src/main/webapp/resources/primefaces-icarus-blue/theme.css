@@ -2931,7 +2931,7 @@ body .ui-toggleswitch {
     border-color: #206FA5;
     color: #fff; }
     .ui-picklist .ui-picklist-list .ui-picklist-item.ui-state-highlight .ui-chkbox .ui-chkbox-box {
-      border-color: #f6bb4e; }
+      border-color: #031874; }
 .ui-picklist .ui-picklist-buttons .ui-icon {
   font-size: 16px; }
 .ui-picklist .ui-picklist-buttons .ui-icon-arrow-1-n {
@@ -4071,8 +4071,8 @@ body .ui-toggleswitch {
 /* Warn */
 .ui-messages .ui-messages-warn, .ui-message.ui-message-warn {
   color: #fff;
-  background: #f6bb4e;
-  border-color: #f6bb4e; }
+  background: #031874;
+  border-color: #031874; }
 
 .ui-messages .ui-messages-warn-icon, .ui-message .ui-message-warn-icon {
   background: none;
@@ -4171,8 +4171,8 @@ body .ui-toggleswitch {
       content: ""; }
 .ui-growl .ui-state-highlight.ui-growl-warn {
   color: #fff;
-  background: #f6bb4e;
-  border-color: #f6bb4e; }
+  background: #031874;
+  border-color: #031874; }
   .ui-growl .ui-state-highlight.ui-growl-warn .ui-growl-image-warn {
     background: none;
     display: inline-block;
